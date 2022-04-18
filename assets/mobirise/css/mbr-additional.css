@@ -1176,6 +1176,23 @@ a {
 .cid-sS4eFtj5PG .mbr-text {
   text-align: center;
 }
+.cid-t3nK9cuLUR {
+  padding-top: 0rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-t3nK9cuLUR .video-wrapper iframe {
+  width: 100%;
+}
+.cid-t3nK9cuLUR .mbr-section-title,
+.cid-t3nK9cuLUR .mbr-description {
+  text-align: center;
+}
+@media (min-width: 992px) {
+  .cid-t3nK9cuLUR .text-wrapper {
+    padding: 2rem;
+  }
+}
 .cid-sS4KiZe7LQ {
   padding-top: 5rem;
   padding-bottom: 5rem;
